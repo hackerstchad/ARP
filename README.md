@@ -2,11 +2,9 @@
 
 **ARP-(hackers_tchad)** est un scanner et éducateur de protocole ARP avancé, avec interface graphique moderne style terminal green/red. Il permet de découvrir les appareils d'un réseau local, d'afficher leur adresse MAC, de résoudre les vendeurs, d'apprendre le fonctionnement ARP et d'exporter des rapports.
 
-> ⚠️ **Usage éthique uniquement** : utilisez cet outil sur des réseaux dont vous êtes propriétaire ou pour lesquels vous avez une autorisation écrite explicite.
-
 ---
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 pip install -r requirements_arp_hackers_tchad.txt
@@ -16,7 +14,7 @@ Sous Linux, exécutez avec `sudo` pour les scans ARP (Scapy nécessite les droit
 
 ---
 
-## 🖥️ Utilisation graphique
+##  Utilisation graphique
 
 ```bash
 python arp_hackers_tchad.py
@@ -50,7 +48,7 @@ Options disponibles :
 
 ---
 
-## 📚 Ce que contient le guide
+##  Ce que contient le guide
 
 - Définition du protocole ARP
 - Différence entre IP (couche 3) et MAC (couche 2)
@@ -62,7 +60,7 @@ Options disponibles :
 
 ---
 
-## 📂 Fichiers
+##  Fichiers
 
 - [`arp_hackers_tchad.py`](arp_hackers_tchad.py) — application principale
 - [`requirements_arp_hackers_tchad.txt`](requirements_arp_hackers_tchad.txt) — dépendances
@@ -70,12 +68,8 @@ Options disponibles :
 
 ---
 
-## 🛡️ Sécurité & légalité
-
-Cet outil est éducatif. Toute utilisation pour espionner, attaquer ou perturber un réseau sans autorisation est illégale. Respectez les lois locales et les bonnes pratiques de cybersécurité.
-
 ---
 
 ## Licence
 
-MIT — usage éducatif et éthique.
+MIT — Auto education hackers tchad.
