@@ -2,9 +2,6 @@
 
 <img width="533" height="375" alt="images" src="https://github.com/user-attachments/assets/b54c6fb4-69a1-4e8a-80f5-1fb674842812" />
 
-
-**ARP-(hackers_tchad)** est un scanner et éducateur de protocole ARP avancé, avec interface graphique moderne style terminal green/red. Il permet de découvrir les appareils d'un réseau local, d'afficher leur adresse MAC, de résoudre les vendeurs, d'apprendre le fonctionnement ARP et d'exporter des rapports.
-
 ---
 
 https://github.com/hackerstchad/GUIDE-ARP
